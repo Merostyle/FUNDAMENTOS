@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+    
+}
+h2 {
+    color: aliceblue;
+    font-size: 20px;
+    
+    margin: 200px 0 0 0;
+    width: 600px;
+    margin-left: 700px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+div.git {
+    margin: -600px 0 0 300px ;
+
+}
+body {
+    background-image: url(https://eveniments.es/wp-content/uploads/2020/01/fondos-gif-para-paginas-web-con-movimiento-5.gif);
+    
+}
+figure{
+   
+    
+    margin: 0 1090px 0 0;
+    padding-left: 1400px;   
+}
